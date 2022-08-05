@@ -7,7 +7,7 @@ module.exports = {
   // 解析器选项
   parserOptions: {
     // 指定 js 的解析器
-    parser: 'babel-eslint',
+    parser: '@babel/eslint-parser',
     // js 的类型
     sourceType: 'module',
     // ECMAScript 版本
