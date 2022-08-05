@@ -1,6 +1,6 @@
 {
   "name": "@momoko/eslint-config-vue",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "@momoko / ESLint 配置 for vue",
   "author": "komo <ko.momo@qq.com>",
   "license": "MIT",
@@ -23,7 +23,7 @@
     ]
   },
   "dependencies": {
-    "@momoko/eslint-config-js": "^1.2.0",
+    "@momoko/eslint-config-js": "^1.2.1",
     "eslint-plugin-jsx-a11y": "^6.4.1",
     "eslint-plugin-vue": "^7.9.0"
   },
