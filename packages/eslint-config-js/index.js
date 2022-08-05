@@ -11,7 +11,7 @@ module.exports = {
     // js 的类型
     sourceType: 'module',
     // ECMAScript 版本
-    ecmaVersion: 2018,
+    ecmaVersion: 2022,
   },
   // 指定环境，每个环境都有自己预定义的全局变量
   env: {
